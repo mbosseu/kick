@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kickboxing-toulouse.fr/sitemap.xml
